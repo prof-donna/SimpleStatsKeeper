@@ -1,0 +1,4 @@
+﻿1. If the database doesn't already exist, create a new SQL Server database named: SimpleStats
+2. Create AttendanceData table running the script: DropAndCreateAttendanceDataTable.sql
+
+
